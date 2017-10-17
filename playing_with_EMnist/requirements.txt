@@ -1,7 +1,4 @@
 python=3
-Flask 
-gevent
-gunicorn
 keras
 numpy
 h5py
