@@ -13,3 +13,5 @@ for the image size.
 You can find the EMnist data set here:
 
 https://www.nist.gov/itl/iad/image-group/emnist-dataset
+
+Direct download :  http://biometrics.nist.gov/cs_links/EMNIST/gzip.zip
